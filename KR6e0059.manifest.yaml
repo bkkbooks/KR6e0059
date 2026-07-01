@@ -1,0 +1,605 @@
+canonical_identifier: bkk:krp/KR6e0059/v1
+canonical_location: https://kanripo.org/bkk/KR6e0059/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 十住毘婆沙論
+  identifiers:
+    alt_id:
+    - T26n1521
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1521.xml
+    old_id: T26n1521
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 南藏
+  label: 南藏
+  source_xml_id: wit5
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit6
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit7
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0059_000.yaml, hash: 'sha256:c714081735d0482547cd2c9c3b365799df350d677121296053cb16e59e5be6c8'}
+  - {seq: 1, filename: KR6e0059_001.yaml, hash: 'sha256:fbb1a67f93c6dbe2ecb56b593682dd548b008a6a26a7c2ace0db4c1581d48e6c'}
+  - {seq: 2, filename: KR6e0059_002.yaml, hash: 'sha256:84734c9e7da66ed1e765cbb3e5885f1c424f8b44b0cea2019178f75e639f7677'}
+  - {seq: 3, filename: KR6e0059_003.yaml, hash: 'sha256:245aab6c3285735c5a436409706b7ba76ab1d357af2a87f83329ab8a7e37b652'}
+  - {seq: 4, filename: KR6e0059_004.yaml, hash: 'sha256:101e4e368a2cc72e7d798d33ca46ac91083c25dc773c79e4791db247f673acd0'}
+  - {seq: 5, filename: KR6e0059_005.yaml, hash: 'sha256:2ce42c019d551f17b26984a4c49143800876d101a66b83c337e79de59b4df197'}
+  - {seq: 6, filename: KR6e0059_006.yaml, hash: 'sha256:17718039ad47624e7c690b781e1181618e43ef0614ef7780d967f06bd92f2400'}
+  - {seq: 7, filename: KR6e0059_007.yaml, hash: 'sha256:965c3940031912c16bc342775f8a931f54801d603e737052031926b5c60f5f03'}
+  - {seq: 8, filename: KR6e0059_008.yaml, hash: 'sha256:8b83d573748a5b0e7c055296fde7ccd94251f11f62f4f544ba1f10ebd7e7f0a3'}
+  - {seq: 9, filename: KR6e0059_009.yaml, hash: 'sha256:f0d6e242fbd20aa846968e2a213fd947a05cb4b849aebf4987dd64becfa28ef7'}
+  - {seq: 10, filename: KR6e0059_010.yaml, hash: 'sha256:5024bf93cfcc227a42f223b3d5320696d58d822a2c3a2261cfa77fe9e3a26151'}
+  - {seq: 11, filename: KR6e0059_011.yaml, hash: 'sha256:077bd6ded2721575637eb002c36f882ee29d76b9c06cebec4da61c631289aeb6'}
+  - {seq: 12, filename: KR6e0059_012.yaml, hash: 'sha256:0b1885c37582fc9a98f62f7aa9de4be4efad18a4f6ec083dbbd757fef593a8d9'}
+  - {seq: 13, filename: KR6e0059_013.yaml, hash: 'sha256:a244e3535610481001f9290d401c1300bd8fc7d278e2e06721fa2f422bb0112d'}
+  - {seq: 14, filename: KR6e0059_014.yaml, hash: 'sha256:5daecd2cd62c3b5750734d2434443e2567c97e51bb78ac245904fcbe546dd52a'}
+  - {seq: 15, filename: KR6e0059_015.yaml, hash: 'sha256:87d6eb29fefb1858a95f9fdc1e624610d804b74166c4c895f2790775fb1c1f29'}
+  - {seq: 16, filename: KR6e0059_016.yaml, hash: 'sha256:cf3027444db903d28f3cca58c844e4308b3aa49525dd722b1a2d500423f04d72'}
+  - {seq: 17, filename: KR6e0059_017.yaml, hash: 'sha256:baec9c108588b6829382be81bf219225cb85e88d47c5d4f228748e0839fbd8b8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0059_001.markers.yaml, hash: 'sha256:ea8383a657d74080baefb14ac7fc1c692ed2b78254c4fb2d97d10d3a5155bfa3'}
+  - {seq: 2, role: markers, filename: assets/KR6e0059_002.markers.yaml, hash: 'sha256:acf1f6599bff2700b2aef269b482c276f48fbcb072804816d28619dcc2668e1f'}
+  - {seq: 3, role: markers, filename: assets/KR6e0059_003.markers.yaml, hash: 'sha256:4d5e24390721f98349a7cb9013a1ebfe4979bc51556a1e169859955f77c950d0'}
+  - {seq: 4, role: markers, filename: assets/KR6e0059_004.markers.yaml, hash: 'sha256:16a514987f2df6a0cf1db1475fab8ab298d91d95ad8cd321644e75dfb35baf50'}
+  - {seq: 5, role: markers, filename: assets/KR6e0059_005.markers.yaml, hash: 'sha256:f6c9a731f010eb201879f38a25974384d8557f2e3c8cb4a3dfb9905d21db2152'}
+  - {seq: 6, role: markers, filename: assets/KR6e0059_006.markers.yaml, hash: 'sha256:66c3df5d831131affbb6a0b8305539618dc90f79260faff9b286364838b20980'}
+  - {seq: 7, role: markers, filename: assets/KR6e0059_007.markers.yaml, hash: 'sha256:da6e15e8284adf4c866c89e49578952668de94f52023ef540316e0c78f771f6a'}
+  - {seq: 8, role: markers, filename: assets/KR6e0059_008.markers.yaml, hash: 'sha256:3a91b142be316f4f2fdc6dc50ab2be18e9150082b786ceecc13856ea99a92685'}
+  - {seq: 9, role: markers, filename: assets/KR6e0059_009.markers.yaml, hash: 'sha256:4c7a2fd566877bd50b22b19062388df6d5a7fce856bbea289a9d039ac00ad3c5'}
+  - {seq: 10, role: markers, filename: assets/KR6e0059_010.markers.yaml, hash: 'sha256:86bce81159de34085e41a927e5d1cb03898e2112c3b9d62b9b60332b716e6721'}
+  - {seq: 11, role: markers, filename: assets/KR6e0059_011.markers.yaml, hash: 'sha256:55722a25c4ab4ffcc4ba82c788f863c3def1f48c5cb894cd1b5d03943118d37e'}
+  - {seq: 12, role: markers, filename: assets/KR6e0059_012.markers.yaml, hash: 'sha256:428f005805f675e78bc3a45c821d003a6dba2bab4ebd6f19f05a3ba09e8f2d08'}
+  - {seq: 13, role: markers, filename: assets/KR6e0059_013.markers.yaml, hash: 'sha256:72ba90e88947073ef664712842cb629e12496011ab3154b336b43dc70a91b827'}
+  - {seq: 14, role: markers, filename: assets/KR6e0059_014.markers.yaml, hash: 'sha256:65a1bdbe9dcbee157f627152ba9ff806fca75b87b33d4a22149978b202fd989e'}
+  - {seq: 15, role: markers, filename: assets/KR6e0059_015.markers.yaml, hash: 'sha256:b1c144ba44d159f617f95eeb714dbe606110d544557cb7255bcee8280dfeb9f4'}
+  - {seq: 16, role: markers, filename: assets/KR6e0059_016.markers.yaml, hash: 'sha256:e2cee0cb53241fa598b730e0419bd4aa5b3316e576e3fd574a9ccee2ca15d858'}
+  - {seq: 17, role: markers, filename: assets/KR6e0059_017.markers.yaml, hash: 'sha256:2b00a0105fa8adefa624a86a37d6f1695e619f14ef58c4f1aea30e6a0b21346d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0059_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7795
+  label: 十住毘婆沙論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0059_T_001-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0059_T_001-mulu-2
+    span:
+    - body
+    - 3576
+    - 3576
+  label: 2 入初地品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0059_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6856
+  label: 十住毘婆沙論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0059_T_002-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 3 地相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0059_T_002-mulu-2
+    span:
+    - body
+    - 3406
+    - 3406
+  label: 4 淨地品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0059_T_002-mulu-3
+    span:
+    - body
+    - 5440
+    - 5440
+  label: 5 釋願品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0059_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6392
+  label: 十住毘婆沙論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0059_T_003-mulu-1
+    span:
+    - body
+    - 5056
+    - 5056
+  label: 6 發菩提心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0059_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5493
+  label: 十住毘婆沙論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0059_T_004-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 7 調伏心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0059_T_004-mulu-2
+    span:
+    - body
+    - 2333
+    - 2333
+  label: 8 阿惟越致相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0059_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7344
+  label: 十住毘婆沙論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0059_T_005-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 9 易行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0059_T_005-mulu-2
+    span:
+    - body
+    - 4643
+    - 4643
+  label: 10 除業品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0059_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7488
+  label: 十住毘婆沙論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0059_T_006-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 11 分別功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0059_T_006-mulu-2
+    span:
+    - body
+    - 2675
+    - 2675
+  label: 12 分別布施品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0059_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 8027
+  label: 十住毘婆沙論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0059_T_007-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 13 分別法施品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0059_T_007-mulu-2
+    span:
+    - body
+    - 1590
+    - 1590
+  label: 14 歸命相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0059_T_007-mulu-3
+    span:
+    - body
+    - 3621
+    - 3621
+  label: 15 五戒品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0059_T_007-mulu-4
+    span:
+    - body
+    - 5465
+    - 5465
+  label: 16 知家過患品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0059_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 8097
+  label: 十住毘婆沙論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0059_T_008-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 17 入寺品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0059_T_008-mulu-2
+    span:
+    - body
+    - 5636
+    - 5636
+  label: 18 共行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0059_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7215
+  label: 十住毘婆沙論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0059_T_009-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 19 四法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0059_T_009-mulu-2
+    span:
+    - body
+    - 3557
+    - 3557
+  label: 20 念佛品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6e0059_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 8249
+  label: 十住毘婆沙論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6e0059_T_010-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 21 四十不共法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6e0059_T_010-mulu-2
+    span:
+    - body
+    - 3116
+    - 3116
+  label: 22 四十不共法中難一切智人品
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6e0059_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 8415
+  label: 十住毘婆沙論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6e0059_T_011-mulu-1
+    span:
+    - body
+    - 1765
+    - 1765
+  label: 23 四十不共法中善知不定品
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6e0059_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 6909
+  label: 十住毘婆沙論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6e0059_T_012-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 24 讚偈品
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6e0059_T_012-mulu-2
+    span:
+    - body
+    - 1891
+    - 1891
+  label: 25 助念佛三昧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6e0059_T_012-mulu-3
+    span:
+    - body
+    - 5572
+    - 5572
+  label: 26 譬喻品
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0059_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 5963
+  label: 十住毘婆沙論卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0059_T_013-mulu-1
+    span:
+    - body
+    - 2328
+    - 2328
+  label: 27 略行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6e0059_T_013-mulu-2
+    span:
+    - body
+    - 4777
+    - 4777
+  label: 28 分別二地業道品
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6e0059_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 7105
+  label: 十住毘婆沙論卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6e0059_T_014-mulu-1
+    span:
+    - body
+    - 5630
+    - 5630
+  label: 29 分別聲聞辟支佛品
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6e0059_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 8026
+  label: 十住毘婆沙論卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6e0059_T_015-mulu-1
+    span:
+    - body
+    - 1611
+    - 1611
+  label: 30 大乘品
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6e0059_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 9550
+  label: 十住毘婆沙論卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6e0059_T_016-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 31 護戒品
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6e0059_T_016-mulu-2
+    span:
+    - body
+    - 4826
+    - 4826
+  label: 32 解頭陀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6e0059_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 8553
+  label: 十住毘婆沙論卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6e0059_T_017-mulu-1
+    span:
+    - body
+    - 1111
+    - 1111
+  label: 33 助尸羅果品
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6e0059_T_017-mulu-2
+    span:
+    - body
+    - 5240
+    - 5240
+  label: 34 讚戒品
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6e0059_T_017-mulu-3
+    span:
+    - body
+    - 6810
+    - 6810
+  label: 35 戒報品
+  type: mulu
+  level: 1
+hash: sha256:6c2d86f6d6b1d0b1cbcd7aa0ce954b7274159038136089ab72f60b783007b224
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

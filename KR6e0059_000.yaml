@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0059/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 十住毘婆沙論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1521.xml
+    old_id: T26n1521
+hash: sha256:c714081735d0482547cd2c9c3b365799df350d677121296053cb16e59e5be6c8
